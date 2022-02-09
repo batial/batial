@@ -1,4 +1,0 @@
-Tipo : Perro.
-Nombre: Lobito.
-Pelaje: Negro.
-Come: Carne de pollo.

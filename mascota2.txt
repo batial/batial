@@ -1,4 +1,0 @@
-Tipo : Perro.
-Nombre: Kiana.
-Pelaje: Marron.
-Come: Ración de cachorro
