@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Sebastian Debesa,
 
-I'm currently studying for a Bachelor's degree in Information Technology at UTEC University in Uruguay.
+I'm a backend-focused developer currently finishing my Bachelor's
+degree in Information Technology at UTEC, Uruguay. I enjoy building
+clean and efficient solutions, and I'm actively looking for my first
+internship or professional experience.
+
+Outside of coding, I'm into geek culture, drawing and board sports.
 
 ## My Skills Include
 
