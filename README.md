@@ -7,6 +7,14 @@ internship or professional experience.
 
 Outside of coding, I'm into geek culture, drawing and board sports.
 
+## Projects
+
+### 🗂️ [FinTrack](https://github.com/batial/fintrack)
+Personal finance management REST API built with Spring Boot.
+
+**Tech stack:** Java 21 · Spring Boot · Spring Security + JWT · PostgreSQL · Redis · Docker · Swagger/OpenAPI
+
+
 ## My Skills Include
 
 <h4> Languages </h4>
