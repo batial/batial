@@ -1,13 +1,15 @@
 ### Hi there 👋 I'm Sebastian Debesa,
 
-I'm a backend-focused developer currently studying for a Bachelor's
-degree in Information Technology at UTEC, Uruguay. I enjoy building
-clean and efficient solutions, and I'm actively looking for my first
-internship or professional experience.
+I'm a web developer focused on backend development, currently studying for a Bachelor's degree in Information Technology at UTEC, Uruguay. I enjoy building clean and efficient solutions, and I'm actively looking for my first internship or professional experience.
 
 Outside of coding, I'm into geek culture, drawing and board sports.
 
 ## Projects
+
+### 🗂️ [Geekshop](https://github.com/batial/geekshop-api)
+Ecommerce REST API built with Spring Boot.
+
+**Tech stack:** Java 17 · Spring Boot · Spring Security + JWT · PostgreSQL · Docker · Swagger/OpenAPI · JUnit 5
 
 ### 🗂️ [FinTrack](https://github.com/batial/fintrack)
 Personal finance management REST API built with Spring Boot.
