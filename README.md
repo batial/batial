@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sebastian Debesa,
+### Hi there 👋 I'm Sebastián Debesa,
 
 I'm a web developer focused on backend development, currently studying for a Bachelor's degree in Information Technology at UTEC, Uruguay. I enjoy building clean and efficient solutions, and I'm actively looking for my first internship or professional experience.
 
